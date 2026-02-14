@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "DAMN, okay gurl i see, thats enough to your ass ate",  // Shows when they go past 5000%
+        extreme: "DAMN, okay gurl i see, thats enough to get your ass ate",  // Shows when they go past 5000%
         high: "Thats a lil better I guess",              // Shows when they go past 1000%
         normal: "Oh so you hate me?"                           // Shows when they go past 100%
     },
